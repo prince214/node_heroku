@@ -1,5 +1,8 @@
 # node_heroku
 Node App Template (Heruko hosted)
 
-App needs npm install to work<br>
-also recommend to install heroku CLI
+- Use this template to quickly host small websites on Heroku<br>
+- Currently setup in Node and Express (package.json)
+
+*App needs npm install to work<br>
+*also recommend to install heroku CLI
